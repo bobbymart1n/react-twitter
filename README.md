@@ -1,5 +1,5 @@
-# Help Queue React App
-**A webpack setup / first React application for Epicodus 06.24.18**
+# Social Media Clone React App
+**A Social Media React application for Epicodus 06.25.18**
 
 ## By Bobby Martin
 
