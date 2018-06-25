@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 
 function NavLink(props){
   return(
-    <div>
+    <div className="nav-link-container">
       <ul>
         <li>
           <a href="#">{props.home}</a>

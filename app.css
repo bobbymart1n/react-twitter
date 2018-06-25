@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+}
+.navbar {
+  height: 80px;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 5px 10px #666;
+}
+
+.nav-link-container ul {
+  list-style: none;
+  display: flex;
+  padding: 0;
+}
+
+.search-tweet {
+  display: flex;
+  align-items: center;
+}

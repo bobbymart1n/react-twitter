@@ -5,15 +5,16 @@ import Tweet from './Tweet';
 
 function Nav() {
   return(
-    <div>
+    <div className="navbar">
       <NavLink
         home="Home"
         notifactions="Notifactions"
         messages="Messages"
       />
-      <Search />
-      <Tweet />
-      <hr/>
+      <div className="search-tweet">
+        <Search />
+        <Tweet />
+      </div>
     </div>
   );
 }
