@@ -7,13 +7,17 @@ body {
   width: 100%;
   justify-content: space-between;
   align-items: center;
-  box-shadow: 0 5px 10px #666;
+  box-shadow: 0 1px 10px #666;
 }
 
 .nav-link-container ul {
   list-style: none;
   display: flex;
   padding: 0;
+}
+
+.nav-link-container li {
+  margin: 0 15px;
 }
 
 .search-tweet {
